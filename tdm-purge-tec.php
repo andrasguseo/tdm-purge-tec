@@ -11,7 +11,7 @@
 	*/
 	
 	/*
-		* Adds a link to the admin bar. Clicking on that deletes purges the database of 
+		* Adds a link to the admin bar. Clicking on that link purges the database of 
 		* "deleted" events that are also removed from the trash, but are still in the database. 
 		* This allows you to re-import events. The script deletes 50 instances per page load
 		* Code by Nico & Andras
